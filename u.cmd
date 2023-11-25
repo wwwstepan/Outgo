@@ -1,0 +1,1 @@
+copy outgo.exe C:\_\doc\outgo

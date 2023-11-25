@@ -1,0 +1,16 @@
+{ 
+    "outgoclassifier" : [
+        {"key" : "1", "description" : "еда",            "code": 1},
+        {"key" : "2", "description" : "рестораны",      "code": 2},
+        {"key" : "3", "description" : "здоровье",       "code": 3},
+        {"key" : "4", "description" : "одежда",         "code": 4},
+        {"key" : "5", "description" : "техника",        "code": 5},
+        {"key" : "6", "description" : "путешествия",    "code": 6},
+        {"key" : "7", "description" : "для дома",       "code": 7},
+        {"key" : "8", "description" : "помощь, подарки", "code": 8},
+        {"key" : "9", "description" : "оплата жилья",   "code": 9},
+        {"key" : "0", "description" : "прочее",         "code": 10}
+        {"key" : "k", "description" : "погашение кредитов", "code": 11},
+        {"key" : "b", "description" : "благотворительность", "code": 12}
+    ]
+}

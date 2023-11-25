@@ -1,0 +1,1 @@
+go build outgo.go types.go bd.go utils.go deleting.go input.go reports.go cfg.go
