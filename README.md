@@ -7,4 +7,4 @@ Outgo - expense accounting
 
 2021 год. Golang
 
-![Image alt](https://github.com/wwwstepan/Outgo/blob/main/report.jpg)
+![Image alt](https://github.com/wwwstepan/Outgo/blob/main/report.JPG)
